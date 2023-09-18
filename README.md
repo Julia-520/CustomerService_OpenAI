@@ -54,7 +54,7 @@ It includes the following improvements:
 
 ## **Implementation and Test**
 
-*This project is run on Ubuntu 22.04*
+*This project is run on Ubuntu*
 
 <img width="463" alt="Screenshot 2023-03-26 005018" src="https://user-images.githubusercontent.com/54694766/227764855-96251b57-d0ad-4968-b3cc-092afa7771d4.png">
 
@@ -132,6 +132,17 @@ OpenAI charges based on tokens, so to minimize the cost of deveopment for this p
 <img width="481" alt="Screenshot 2023-03-19 211449" src="https://user-images.githubusercontent.com/54694766/228060541-47a04fdb-185f-474f-9de5-4954b2c27f6c.png">
 
 6. Once the project is working as desired, link your payment method on OpenAI and embed ```processed/scraped.csv``` then test project with ```$ flask run```.
+
+
+### *Note:*
+I kept crawldate.py and embedText.py seperate from app.py since I only want to crawl and embed the data once to save time and money. 
+
+So, before runing embedText.py, you need to config the OPENAI_API_Key to use the model to embedding. You can also try other models to embedding.
+
+Run in terminal:
+```
+$ export OPENAI_API_Key=<Your API KEY>
+```
 
 <br>
 
