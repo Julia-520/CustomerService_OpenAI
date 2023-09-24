@@ -80,6 +80,13 @@ It includes the following improvements:
    $ pip3 install –upgrade pip setuptools or 
    $ pip install --upgrade setuptools --user python
    ```
+   
+   Create a new .env file using the .env.example file then add your API Key there
+   ```
+   $ cp .env.example .env
+   $ vi .env
+   ```
+   
 <br>
 
 2. **Crawl Data**
