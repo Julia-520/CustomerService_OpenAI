@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-# ML - Create a Customer Support Website with ChatGPT models
-[Google Slides](https://docs.google.com/presentation/d/110wkdPLv1HxS2wEj5NBrm1Br9f2UYO70l4Yxp-dtXrE/edit?usp=sharing)
-=======
+
 # **ML - Create a Customer Support Website with ChatGPT models**
 [Google Slides](https://docs.google.com/presentation/d/1ZnbRJZG-zkMsA3IP-2rD7Rj64nMF3ItF/edit#slide=id.p33)
->>>>>>> 1d31f4b (Updated README.md and added images)
 
 ## **Introduction**
 
