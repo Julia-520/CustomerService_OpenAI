@@ -155,7 +155,7 @@ $ export OPENAI_API_Key=<Your API KEY>
    $ flask run
    ```
    
-   You should now be able to access the app at [http://localhost:5000](http://localhost:5000)
+   You should now be able to access the app at [](http://localhost:5000)
 
    ***Sample Questions and Answers:***
 
