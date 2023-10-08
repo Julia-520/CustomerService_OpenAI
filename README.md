@@ -32,7 +32,7 @@ It includes the following improvements:
 
 ## **Design**
 
-<img width="188" alt="image" src="https://github.com/Julia-520/CustomerService_OpenAI/blob/main/image/image_design(Python).jpg">
+<img width="388" alt="image" src="https://github.com/Julia-520/CustomerService_OpenAI/blob/main/image/image_design(Python).jpg">
 
 1. **Install Packages**
 
@@ -120,7 +120,7 @@ OpenAI charges based on tokens, so to minimize the cost of deveopment for this p
 
 2. Create your own testing data and save it as ```processed/data.csv``` using the same structure as of ```processed/scraped.csv```. 
 
-<img width="188" alt="image" src="https://user-images.githubusercontent.com/54694766/228060450-1c657372-08d7-41cf-b304-af291a6101e4.png">
+<img width="388" alt="image" src="https://user-images.githubusercontent.com/54694766/228060450-1c657372-08d7-41cf-b304-af291a6101e4.png">
 
 <img width="188" alt="image" src="https://user-images.githubusercontent.com/54694766/228059942-d5662acf-14f2-4a91-8772-0bc83d7667ac.png">
 
