@@ -132,7 +132,7 @@ OpenAI charges based on tokens, so to minimize the cost of deveopment for this p
 
 5. Run ```$ flask run``` to test the project by asking questions about the testing data in browser. 
 
-<img width="481" alt="Screenshot 2023-03-19 211449" src="https://user-images.githubusercontent.com/54694766/228060541-47a04fdb-185f-474f-9de5-4954b2c27f6c.png">
+<img width="481" alt="Screenshot 2023-03-19 211449" src="https://github.com/Julia-520/CustomerService_OpenAI/blob/main/image/Founder.jpg">
 
 6. Once the project is working as desired, link your payment method on OpenAI and embed ```processed/scraped.csv``` then test project with ```$ flask run```.
 
@@ -159,13 +159,10 @@ $ export OPENAI_API_Key=<Your API KEY>
 
    ***Sample Questions and Answers:***
 
-   <img width="352" alt="Screenshot 2023-03-25 222209" src="https://user-images.githubusercontent.com/54694766/227764916-a4cbfc3a-2e1e-4344-a738-dd6619be1d96.png">
+   <img width="366" alt="Screenshot 2023-03-25 222209" src="https://github.com/Julia-520/CustomerService_OpenAI/blob/main/image/Premium%20Price.jpg">
    
-   <img width="366" alt="Screenshot 2023-03-25 222020" src="https://user-images.githubusercontent.com/54694766/227764928-509f5980-0cd8-462d-a264-e5b4b42e5736.png">
+   <img width="366" alt="Screenshot 2023-03-25 222020" src="https://github.com/Julia-520/CustomerService_OpenAI/blob/main/image/Founder.jpg">
 
-   <img width="403" alt="Screenshot 2023-03-25 221942" src="https://user-images.githubusercontent.com/54694766/227764931-6dbba85a-6851-4adf-935d-f25a1280c900.png">
-
-   <img width="363" alt="Screenshot 2023-03-25 221754" src="https://user-images.githubusercontent.com/54694766/227764935-12b2d24e-be85-4813-8ebe-d551db49661f.png">
 
 <br>
 
